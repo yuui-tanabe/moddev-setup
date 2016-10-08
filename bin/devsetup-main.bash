@@ -60,7 +60,7 @@ echo "##############################"
 }
 read ANSWER2
 case $ANSWER2 in
-	1 ) `pwd`/lib/1.7.10-process-JP.bash
+    1 ) `pwd`/lib/1.7.10-process-JP.bash
     2 ) `pwd`/lib/1.8-process-JP.bash
     3 ) `pwd`/lib/1.8.8-process-JP.bash
     4 ) `pwd`/lib/1.8.9-process-JP.bash
